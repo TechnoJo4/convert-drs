@@ -500,13 +500,13 @@ No matter how intelligent managers are <em>as individuals</em>, a bureaucratic h
 <quote>
 But why don’t firms improve with practice in the way that individuals’ musical or sporting performance improves? Here are four possible differences:
 
-1.Within firms, there’s no mechanism for translating individuals’ learning, or incremental knowledge, into corporate knowledge. As Hayek said, hierarchies are terrible at using fragmentary, tacit, dispersed knowledge.
+ 1. Within firms, there’s no mechanism for translating individuals’ learning, or incremental knowledge, into corporate knowledge. As Hayek said, hierarchies are terrible at using fragmentary, tacit, dispersed knowledge.
 
-2. Job turnover means that job-specific human capital gets lost.
+ 2. Job turnover means that job-specific human capital gets lost.
 
-3. Bosses are selected for overconfidence. But overconfidence militates against learning.
+ 3. Bosses are selected for overconfidence. But overconfidence militates against learning.
 
-4.In companies, the feedback that’s necessary for improvement gets warped by adverse incentives or ego involvement. If I play a phrase or chord badly, my ears tell me to practice it more. But if a company gets some adverse feedback—falling sales, say— no-one has an incentive or desire to say “I screwed up: I’d better improve.” And formal efforts to generate feedback, such as performance reviews, often backfire.
+ 4. In companies, the feedback that’s necessary for improvement gets warped by adverse incentives or ego involvement. If I play a phrase or chord badly, my ears tell me to practice it more. But if a company gets some adverse feedback—falling sales, say— no-one has an incentive or desire to say “I screwed up: I’d better improve.” And formal efforts to generate feedback, such as performance reviews, often backfire.
 
 What I’m saying is what every methodological individualist knows: companies are not individuals writ large. The differences between them can mitigate against learning by doing.[71]
 </quote>
@@ -1695,49 +1695,49 @@ Our earlier discussion of Assassin’s Mace weapons is relevant here. The resistan
 And Al Qaeda seems at least to be working on a wide range of cheap countermeasures—of varying or unknown levels of effectiveness—to American drones.
 
 <quote>
-1—It is possible to know the intention and the mission of the drone by using the Russian-made “sky grabber” device to infiltrate the drone’s waves and the frequencies. The device is available in the market for $2,595 and the one who operates it should be a computer know-how.
+ 1. It is possible to know the intention and the mission of the drone by using the Russian-made “sky grabber” device to infiltrate the drone’s waves and the frequencies. The device is available in the market for $2,595 and the one who operates it should be a computer know-how.
 
-2—Using devices that broadcast frequencies or pack of frequencies to disconnect the contacts and confuse the frequencies used to control the drone. The Mujahideen have had successful experiments using the Russian-made “Racal.”
+ 2. Using devices that broadcast frequencies or pack of frequencies to disconnect the contacts and confuse the frequencies used to control the drone. The Mujahideen have had successful experiments using the Russian-made “Racal.”
 
-3—Spreading the reflective pieces of glass on a car or on the roof of the building.
+ 3. Spreading the reflective pieces of glass on a car or on the roof of the building.
 
-4—Placing a group of skilled snipers to hunt the drone, especially the reconnaissance ones because they fly low, about six kilometers or less.
+ 4. Placing a group of skilled snipers to hunt the drone, especially the reconnaissance ones because they fly low, about six kilometers or less.
 
-5—Jamming of and confusing of electronic communication using the ordinary water-lifting dynamo fitted with a 30-meter copper pole.
+ 5. Jamming of and confusing of electronic communication using the ordinary water-lifting dynamo fitted with a 30-meter copper pole.
 
-6—Jamming of and confusing of electronic communication using old equipment and keeping them 24-hour running because of their strong frequencies and it is possible using simple ideas of deception of equipment to attract the electronic waves devices similar to that used by the Yugoslav army when they used the microwave (oven) in attracting and confusing the NATO missiles fitted with electromagnetic searching devices.
+ 6. Jamming of and confusing of electronic communication using old equipment and keeping them 24-hour running because of their strong frequencies and it is possible using simple ideas of deception of equipment to attract the electronic waves devices similar to that used by the Yugoslav army when they used the microwave (oven) in attracting and confusing the NATO missiles fitted with electromagnetic searching devices.
 
-7—Using general confusion methods and not to use permanent headquarters.
+ 7. Using general confusion methods and not to use permanent headquarters.
 
-8—Discovering the presence of a drone through well-placed reconnaissance networks and to warn all the formations to halt any movement in the area.
+ 8. Discovering the presence of a drone through well-placed reconnaissance networks and to warn all the formations to halt any movement in the area.
 
-9—To hide from being directly or indirectly spotted, especially at night.
+ 9. To hide from being directly or indirectly spotted, especially at night.
 
-10—To hide under thick trees because they are the best cover against the planes.
+ 10. To hide under thick trees because they are the best cover against the planes.
 
-11—To stay in places unlit by the sun such as the shadows of the buildings or the trees.
+ 11. To stay in places unlit by the sun such as the shadows of the buildings or the trees.
 
-12—Maintain complete silence of all wireless contacts.
+ 12. Maintain complete silence of all wireless contacts.
 
-13—Disembark of vehicles and keep away from them especially when being chased or during combat.
+ 13. Disembark of vehicles and keep away from them especially when being chased or during combat.
 
-14—To deceive the drone by entering places of multiple entrances and exits.
+ 14. To deceive the drone by entering places of multiple entrances and exits.
 
-15—Using underground shelters because the missiles fired by these planes are usually of the fragmented anti-personnel and not anti-buildings type.
+ 15. Using underground shelters because the missiles fired by these planes are usually of the fragmented anti-personnel and not anti-buildings type.
 
-16—To avoid gathering in open areas and in urgent cases, use building of multiple doors or exits.
+ 16. To avoid gathering in open areas and in urgent cases, use building of multiple doors or exits.
 
-17—Forming anti-spies groups to look for spies and agents.
+ 17. Forming anti-spies groups to look for spies and agents.
 
-18—Formation of fake gatherings such as using dolls and statutes to be placed outside false ditches to mislead the enemy.
+ 18. Formation of fake gatherings such as using dolls and statutes to be placed outside false ditches to mislead the enemy.
 
-19—When discovering that a drone is after a car, leave the car immediately and everyone should go in different direction because the planes are unable to get after everyone.
+ 19. When discovering that a drone is after a car, leave the car immediately and everyone should go in different direction because the planes are unable to get after everyone.
 
-20—Using natural barricades like forests and caves when there is an urgent need for training or gathering.
+ 20. Using natural barricades like forests and caves when there is an urgent need for training or gathering.
 
-21—In frequently targeted areas, use smoke as cover by burning tires.
+ 21. In frequently targeted areas, use smoke as cover by burning tires.
 
-22—As for the leaders or those sought after, they should not use communications equipment because the enemy usually keeps a voice tag through which they can identify the speaking person and then locate him.[258]
+ 22. As for the leaders or those sought after, they should not use communications equipment because the enemy usually keeps a voice tag through which they can identify the speaking person and then locate him.[258]
 </quote>
 
 In the American domestic market an Oregon startup, Domestic Drones Countermeasures LLC, claims to be preparing to offer a package of countermeasures against law enforcement drones.
@@ -1965,11 +1965,11 @@ Such contradictions within ourselves “destroy our internal harmony” and “paralyz
 Erica Chenoweth argues that the point of nonviolent civil resistance is not so much to persuade the rulers as 1) to “expose the lie” to the public and thereby undermine the ideological basis for compliance, and 2) demoralize officials within the regime so that they stop enforcing its directives.
 
 <quote>
-2. Every oppressive regime has ambivalent insiders. All regimes are, in the end, totally dependent on the obedience of those who support it—economic, military, media, and civilian elites. When such insiders (Sinna, Plutarch, etc.) stop obeying the regime, and its pillars of support begin to crack, it’s the beginning of the end. Insiders, too, are often intimately familiar with the regime’s vulnerabilities and are therefore quite well-disposed to challenge it.
+ 2. Every oppressive regime has ambivalent insiders. All regimes are, in the end, totally dependent on the obedience of those who support it—economic, military, media, and civilian elites. When such insiders (Sinna, Plutarch, etc.) stop obeying the regime, and its pillars of support begin to crack, it’s the beginning of the end. Insiders, too, are often intimately familiar with the regime’s vulnerabilities and are therefore quite well-disposed to challenge it.
 
-3. Power is essentially psychological. No regime can repress all of the people all of the time. So many regimes rely on terror to suppress dissent. And by and large, it works—until it doesn’t.
+ 3. Power is essentially psychological. No regime can repress all of the people all of the time. So many regimes rely on terror to suppress dissent. And by and large, it works—until it doesn’t.
 
-4. It’s all about exposing the lie. The psychological power of terror ends when people simply decide to stop being afraid. Then it’s all over. Like in the books when the Districts end up rebelling once they realize that 1) the Capitol is (and always has been) vulnerable to challenge; (2) all information coming out of the Capital is (and always was) lies; and (3) all they have to do (now and ever) is coordinate their uprisings. The people of the districts realized they had the power all the time. As soon as this “cognitive liberation” was achieved, it was all over for the Panem of the Hunger Games.[281]
+ 4. It’s all about exposing the lie. The psychological power of terror ends when people simply decide to stop being afraid. Then it’s all over. Like in the books when the Districts end up rebelling once they realize that 1) the Capitol is (and always has been) vulnerable to challenge; (2) all information coming out of the Capital is (and always was) lies; and (3) all they have to do (now and ever) is coordinate their uprisings. The people of the districts realized they had the power all the time. As soon as this “cognitive liberation” was achieved, it was all over for the Panem of the Hunger Games.[281]
 </quote>
 
 Horizontal, networked communications technologies enable unprecedented speeds of phase transition in public consciousness. Doug McAdam coined the term “Cognitive Liberation” for “a process in which people suddenly and collectively decide that they are no longer afraid, that their recent fear or apathy was based on lies, and that there is no going back to the old ways of thinking.”[282] Once a critical mass of the public decides that change is inevitable, it is. And with networked communications technology, that critical mass may coalesce suddenly and unexpectedly.
@@ -2762,11 +2762,11 @@ These assorted organized collectivities would coexist through the principle of f
 The result was a conception of “the non-governmental state as an individual actor,” coexisting with other collective bodies “in relations of mutuality.”[396]
 
 <quote>
-1) We have a level “field of play” where the beings we are accustomed to consider “individual” and a range of organized collectivities can actually only claim “individual” status by the same title, their status as groups organized according to an internal law which gives them unity. People, families, workshops, cities, nations and “humanity”.... occupy non-hierarchical relationship with one another, despite differences in scale and complexity, and despite the participation of individuals at one scale in collective-individualities at another.... Without a governmental principle to elevate any of these individuals “above the fray” in any way, mutuality becomes absolutely vital....
+ 1. We have a level “field of play” where the beings we are accustomed to consider “individual” and a range of organized collectivities can actually only claim “individual” status by the same title, their status as groups organized according to an internal law which gives them unity. People, families, workshops, cities, nations and “humanity”.... occupy non-hierarchical relationship with one another, despite differences in scale and complexity, and despite the participation of individuals at one scale in collective-individualities at another.... Without a governmental principle to elevate any of these individuals “above the fray” in any way, mutuality becomes absolutely vital....
 
-2) We have “rights” manifested by nothing more than the manifestation of capacities—which means we have rights that are going to conflict and clash, and which are to be balanced by some sort of (broadly defined) commutative justice.
+ 2. We have “rights” manifested by nothing more than the manifestation of capacities—which means we have rights that are going to conflict and clash, and which are to be balanced by some sort of (broadly defined) commutative justice.
 
-3) We also have a theory of freedom.... which is not primarily concerned with permissions and prohibitions, but with the strength and activity (the <em>play</em>) of the elements that make up the individual, and the complexity of their relations.[397]
+ 3. We also have a theory of freedom.... which is not primarily concerned with permissions and prohibitions, but with the strength and activity (the <em>play</em>) of the elements that make up the individual, and the complexity of their relations.[397]
 </quote>
 
 The state of Proudhon’s day had preempted its horizontal relationship to other, rightfully equal, individuals:
@@ -2927,15 +2927,15 @@ What you are doing by sending terms of use to a corporation is asserting a right
 
 The terms of use do this by imposing on the corporation five duties
 
-1. Transparency to the User-base
+ 1. Transparency to the User-base
 
-2. Consultation with the User-base in decisions affecting the User-base.
+ 2. Consultation with the User-base in decisions affecting the User-base.
 
-3. Privacy of the data of the User-base.
+ 3. Privacy of the data of the User-base.
 
-4. Coherence (Not trading with a corporation which does not abide by the terms of use)
+ 4. Coherence (Not trading with a corporation which does not abide by the terms of use)
 
-5. Due Process.... [421]
+ 5. Due Process.... [421]
 
 A primary function of the Network is to enable the user-base of a corporation to organise themselves effectively and quickly so that the target corporation cannot generate profits from it products. The Network makes it possible for end-user’s to employ a variety of tactics to achieve a ‘corporate arrest’....
 
@@ -3475,13 +3475,13 @@ Now how does the network get populated? Let’s say that Sue cuts Jake’s hair and 
 
 All that Jake has to do is click on Sue’s profile and check any of 4 boxes;
 
-1. Have you had internet interactions with Sue?
+ 1. Have you had internet interactions with Sue?
 
-2. Have you had real life interactions with Sue?
+ 2. Have you had real life interactions with Sue?
 
-3. Have you conducted 1 to 3 free-market transactions with Sue?
+ 3. Have you conducted 1 to 3 free-market transactions with Sue?
 
-4. Have you conducted 4 or more free-market transactions with Sue?
+ 4. Have you conducted 4 or more free-market transactions with Sue?
 
 And that is all the feedback that one needs to do!....
 
@@ -3695,21 +3695,21 @@ Many terrorist networks have developed complex and sophisticated systems that pr
 
 These terrorist social networks thrive in the vacuum created by a failed state. A good example of this is Hamas.... Since its founding in 1987, Hamas has proven to be a well run counterweight to Yassar Arafat’s corrupt Palestinian National Authority.... Hamas runs the following services.... :
 
-1) An extensive education network
+ 1. An extensive education network
 
-2) Distribution of food to the poor
+ 2. Distribution of food to the poor
 
-3) Youth camps and sports
+ 3. Youth camps and sports
 
-4) Elderly care
+ 4. Elderly care
 
-5) Funding of scholarships and business development
+ 5. Funding of scholarships and business development
 
-6) Religious services
+ 6. Religious services
 
-7) Public safety
+ 7. Public safety
 
-8) Health care....
+ 8. Health care....
 
 The rise of terrorist social services indicates that the loose networks that power terrorist military organizations can also replicate the social responsibilities of nationstates. As a challenger to the nation-state system, this capability speaks volumes.
 
@@ -4133,11 +4133,11 @@ By offering economic tools, to enable real-world and virtual communities to decl
 Its purpose, as described in the Community Forge Mission Statement, is “to Make Community Currencies Ubiquitous.”
 
 <quote>
-1. to enable communities to use mutual credit currencies as part of a larger localisation movement
+ 1. to enable communities to use mutual credit currencies as part of a larger localisation movement
 
-2. to campaign and educate for interest free money
+ 2. to campaign and educate for interest free money
 
-3. to concentrate expertise and foster experimentation in CC design[547]
+ 3. to concentrate expertise and foster experimentation in CC design[547]
 </quote>
 
 As described by the Community Forge project, CF is of special value because it’s designed to be scalable and modular:
@@ -4187,9 +4187,9 @@ Money as we know it is made from promises, specifically bank promises, in the fo
 
 To start with, let’s look at what happens if you tried to use your own promise as money. Suppose you went to the store and tried to pay with an IOU. This might work, except for two things:
 
-1. The store owner may not know you are trustworthy.
+ 1. The store owner may not know you are trustworthy.
 
-2. Even if the owner trusts you, many others don’t, so she can’t use your IOU to buy things.
+ 2. Even if the owner trusts you, many others don’t, so she can’t use your IOU to buy things.
 
 Ripple solves the first problem by finding one or more people who can exchange your IOU for one issued by someone the store owner trusts. For example, if the store owner trusts your friend Alice, and Alice trusts you, you can give your IOU to Alice, and Alice can give her IOU to the owner. This can all happen instantly over the internet.
 
@@ -4862,13 +4862,7 @@ You mainly learn by asking questions, by interacting informally with professors 
 
 Many students are already sharing on the new Unisharred platform, from Copenhagen to Stanford. “Students are willing to take action to change the way the world is learning. And with the internet capabilities, a small change in their habits—taking notes online—can have a huge social impact and make their time at university way more efficient and meaningful.”....
 
-François Fourcade, whose students used UniShared during classes explains: “Once the notes are shared, the students start to reflect on the lesson, to see similarities and differences between the perception of a same class (ie/soft skills development, meta competence development).... The students are creating a network, motivating people to
-</quote>
-
-20120923/22524020492/guyana-resorts-to-buying-pirated-textbooks-because-legal-copies-are-tooexpensive.shtml>.
-
-<quote>
-join their learning community, they are able to track inside this network who learns what faster than others, who is more knowledgeable in a certain field.”[647]
+François Fourcade, whose students used UniShared during classes explains: “Once the notes are shared, the students start to reflect on the lesson, to see similarities and differences between the perception of a same class (ie/soft skills development, meta competence development).... The students are creating a network, motivating people to join their learning community, they are able to track inside this network who learns what faster than others, who is more knowledgeable in a certain field.”[647]
 </quote>
 
 <em>The Open Masters Program</em>. The Open Masters Program was created with advice and support from a large number of open eduction projects, including DIYU, Uncollege and the Hub.
@@ -5855,13 +5849,7 @@ In fact, the CoWorker site is filled with examples of everyday people organising
 If workers don’t need a union institution to win change in their workplace, what will cause them to join in the future?[759]
 </quote>
 
-“Godfrey,” an Australian who blogs on labor issues, proposes the “direct union” as an expedient by which union organizations can be detached from individual workplace locals, and workers in a given industry can network through partici-
-
-<quote>
-<http://www.allbusiness.com/government/government-bodies-offices-us-federal-
-</quote>
-
-2011 government/16400952-1.html>. patory union websites. He wants to separate unionism from the workplace. In an era of declining work hours, unemployment and underemployment, and outsourcing to temp agencies, a model of unionism centered on those directly employed in the workplace is vulnerable to strategic encirclement, as workers still employed in old-line union industries are pitted against the unemployed.
+“Godfrey,” an Australian who blogs on labor issues, proposes the “direct union” as an expedient by which union organizations can be detached from individual workplace locals, and workers in a given industry can network through participatory union websites. He wants to separate unionism from the workplace. In an era of declining work hours, unemployment and underemployment, and outsourcing to temp agencies, a model of unionism centered on those directly employed in the workplace is vulnerable to strategic encirclement, as workers still employed in old-line union industries are pitted against the unemployed.
 
 <quote>
 However, the technological development of the capitalist economy has reached a stage where it just needs less workers per unit of output. In other words, more and more of us will experience not being in paid employment—whether through a sheer lack of available jobs, being physically broken by the intensity of work, or just having the bad luck to live in a ecologically exhausted community. Thus, as a matter of theory, for a <em>direct</em> Union act as a vehicle to get us safely through the danger of barbarism/collapse it needs a mechanism to organise the workforce that is necessarily locked out of work. The community membership is one such solution.
@@ -6562,19 +6550,19 @@ The Facebook groups, the Wikileaks cables, the blogs all show that any one perso
 Tufekci, in similar vein, points to the significance of social media in challenging consensus reality:
 
 <quote>
-1- The capacities of the Internet that are most threatening to authoritarian regimes are not necessarily those pertaining to spreading of censored information but rather its ability to support the formation of a counter-public that is outside the control of the state. In other words, it is not that people are waiting for that key piece of information to start their revolt—and that. information just happens to be behind the wall of censorship—but that they are isolated, unsure of the power of the regime, unsure of their position and potential.
+ 1. The capacities of the Internet that are most threatening to authoritarian regimes are not necessarily those pertaining to spreading of censored information but rather its ability to support the formation of a counter-public that is outside the control of the state. In other words, it is not that people are waiting for that key piece of information to start their revolt—and that. information just happens to be behind the wall of censorship—but that they are isolated, unsure of the power of the regime, unsure of their position and potential.
 
-2- Dissent is not just about knowing what you think but about the formation of a public. A public is not just about what you know. Publics form through knowing that other people know what you know—and also knowing that you know what they know....
+ 2. Dissent is not just about knowing what you think but about the formation of a public. A public is not just about what you know. Publics form through knowing that other people know what you know—and also knowing that you know what they know....
 
-3- Thus, social media can be the most threatening part of the Internet to an authoritarian regime through its capacity to create a public(ish) sphere that is integrated into everyday life of millions of people and is outside the direct control of the state partly because it is so widespread and partly because it is not solely focused on politics. How do you censor five million Facebook accounts in real time except to shut them all down?
+ 3. Thus, social media can be the most threatening part of the Internet to an authoritarian regime through its capacity to create a public(ish) sphere that is integrated into everyday life of millions of people and is outside the direct control of the state partly because it is so widespread and partly because it is not solely focused on politics. How do you censor five million Facebook accounts in real time except to shut them all down?
 
-4- The capacity to selectively filter the Internet is inversely proportional to the scale and strength of the dissent. In other words, regimes which employ widespread legitimacy may be able to continue to selectively filter the Internet. However, this is going to break down as dissent and unhappiness spreads. As anyone who has been to a country with selective filtering knows, most everyone (who is motivated enough) knows how to get around the censors. For example, in Turkey, YouTube occasionally gets blocked because of material that some courts have deemed as offensive to Mustafa Kemal Ataturk, the founding father of Turkey. I have yet to meet anyone in Turkey who did not know how to get to YouTube through proxies.
+ 4. The capacity to selectively filter the Internet is inversely proportional to the scale and strength of the dissent. In other words, regimes which employ widespread legitimacy may be able to continue to selectively filter the Internet. However, this is going to break down as dissent and unhappiness spreads. As anyone who has been to a country with selective filtering knows, most everyone (who is motivated enough) knows how to get around the censors. For example, in Turkey, YouTube occasionally gets blocked because of material that some courts have deemed as offensive to Mustafa Kemal Ataturk, the founding father of Turkey. I have yet to meet anyone in Turkey who did not know how to get to YouTube through proxies.
 
-5- Thus, the effect of selective filtering is not to keep out information out of the hands of a determined public, but to allow the majority of ordinary people to continue to be able to operate without confronting information that might create cognitive dissonance between their existing support for the regime and the fact that they, along with many others, also have issues. Meanwhile, the elites go about business as if there was no censorship as they all know how to use work-arounds. This creates a safety-valve as it is quite likely that it is portions of the elite groups that would be most hindered by the censorship and most unhappy with it. (In fact, I have not seen any evidence that China is trying to actively and strongly shut down the work-arounds.)
+ 5. Thus, the effect of selective filtering is not to keep out information out of the hands of a determined public, but to allow the majority of ordinary people to continue to be able to operate without confronting information that might create cognitive dissonance between their existing support for the regime and the fact that they, along with many others, also have issues. Meanwhile, the elites go about business as if there was no censorship as they all know how to use work-arounds. This creates a safety-valve as it is quite likely that it is portions of the elite groups that would be most hindered by the censorship and most unhappy with it. (In fact, I have not seen any evidence that China is trying to actively and strongly shut down the work-arounds.)
 
-6- Social media is not going to create dissent where there is none....
+ 6. Social media is not going to create dissent where there is none....
 
-7- Finally, during times of strong upheaval, as in Egypt, dictator’s dilemma roars. The ability to ensure that their struggle and their efforts are not buried in a deep pit of censorship, the ability to continue to have an honest conversation, the ability to know that others know what one knows all combine to create a cycle furthering dissent and upheaval. Citizen-journalism matters most in these scenarios as there cannot be reporters everywhere something is happening; however, wherever something is happening there are people with cell phone cameras. Combined with Al-Jazeera re-broadcasting the fruits of people-powered journalism, it all comes down to how much force the authoritarian state is willing and able to deploy—which in turn, depends on the willingness of the security apparatus. Here, too, social media matters because, like everyone else, they too are watching the footage on Al-Jazeera. Their choice is made more stark by the fact that they know that history will judge them by their actions—actions which will likely be recorded, broadcast and be viewed by their citizens, their neighbors and their children and grandchildren.[872]
+ 7. Finally, during times of strong upheaval, as in Egypt, dictator’s dilemma roars. The ability to ensure that their struggle and their efforts are not buried in a deep pit of censorship, the ability to continue to have an honest conversation, the ability to know that others know what one knows all combine to create a cycle furthering dissent and upheaval. Citizen-journalism matters most in these scenarios as there cannot be reporters everywhere something is happening; however, wherever something is happening there are people with cell phone cameras. Combined with Al-Jazeera re-broadcasting the fruits of people-powered journalism, it all comes down to how much force the authoritarian state is willing and able to deploy—which in turn, depends on the willingness of the security apparatus. Here, too, social media matters because, like everyone else, they too are watching the footage on Al-Jazeera. Their choice is made more stark by the fact that they know that history will judge them by their actions—actions which will likely be recorded, broadcast and be viewed by their citizens, their neighbors and their children and grandchildren.[872]
 
 *** VI. Networked Activism and the Growth of Civil Society
 
@@ -7733,11 +7721,11 @@ The Internet.... lets oppressed people join in outrage, in shared fury and humil
 Zeynep Tufekci argued, against the dismissals of theorists like Evgeny Morozov:
 
 <quote>
-1- The capacities of the Internet that are most threatening to authoritarian regimes are not necessarily those pertaining to spreading of censored information but rather its ability to support the formation of a counter-public that is outside the control of the state. In other words, it is not that people are waiting for that key piece of information to start their revolt—and that information just happens to be behind the wall of censorship—but that they are isolated, unsure of the power of the regime, unsure of their position and potential.
+ 1. The capacities of the Internet that are most threatening to authoritarian regimes are not necessarily those pertaining to spreading of censored information but rather its ability to support the formation of a counter-public that is outside the control of the state. In other words, it is not that people are waiting for that key piece of information to start their revolt—and that information just happens to be behind the wall of censorship—but that they are isolated, unsure of the power of the regime, unsure of their position and potential.
 
-2- Dissent is not just about knowing what you think but about the formation of a public. A public is not just about what you know. Publics form through knowing that other people know what you know–and also knowing that you know what they know.... Yes, all those parts of the Web that are ridiculed by some of the critics of Internet’s potential—the LOLcats, Facebook, the three million baby pictures, the slapstick, talking about the weather, the food and the trials and tribulations of life—are exactly the backbone of community, and ultimately the creation of public(s).
+ 2. Dissent is not just about knowing what you think but about the formation of a public. A public is not just about what you know. Publics form through knowing that other people know what you know–and also knowing that you know what they know.... Yes, all those parts of the Web that are ridiculed by some of the critics of Internet’s potential—the LOLcats, Facebook, the three million baby pictures, the slapstick, talking about the weather, the food and the trials and tribulations of life—are exactly the backbone of community, and ultimately the creation of public(s).
 
-3- Thus, social media can be the most threatening part of the Internet to an authoritarian regime through its capacity to create a public(ish) sphere that is integrated into everyday life of millions of people and is outside the direct control of the state partly because it is so widespread and partly because it is not solely focused on politics.... [1036]
+ 3. Thus, social media can be the most threatening part of the Internet to an authoritarian regime through its capacity to create a public(ish) sphere that is integrated into everyday life of millions of people and is outside the direct control of the state partly because it is so widespread and partly because it is not solely focused on politics.... [1036]
 </quote>
 
 As Nicholas Kulish argued in a later article written after the beginning of Occupy Wall Street, the series of movements from the Arab Spring to the Occupy movement reflected a different youth consciousness about the value of electoral politics and pressure campaigns, coupled with the availability of new networked communications technologies:
@@ -11559,11 +11547,11 @@ Luigi Zingales. “In Search of New Foundations” <em>The Journal of Finance</em>, 
 
 [643] <http://www.futurelearn.com/>; block quote from Cory Doctorow, “Open University is now more open,” <em>Boing Boing</em>, December 14, 2012 <http://boingboing.net/2012/12/14/openuniversity-is-now-more-op.html>.
 
-[644] Zachary Knight, “Guyana Resorts To Buying Pirated Textbooks Because Legal Copies Are Too Expensive [Updated],” <em>Techdirt</em>, October 2, 2012 <http://www.techdirt.com/articles/
+[644] Zachary Knight, “Guyana Resorts To Buying Pirated Textbooks Because Legal Copies Are Too Expensive [Updated],” <em>Techdirt</em>, October 2, 2012 <http://www.techdirt.com/articles/20120923/22524020492/guyana-resorts-to-buying-pirated-textbooks-because-legal-copies-are-tooexpensive.shtml>.
 
 [645] <http://p2pu.org/en/>.
 
-[646] <http://www.uotc.org/wordpress/>
+[646] <http://www.uotc.org/wordpress/> 
 
 [647] Ricardo Geromel, “Unishared: Revolution in Online Education Beyond Coursera, Edx, and Udacity,” <em>Forbes</em>, September 17, 2012 <http://www.forbes.com/sites/ricardogeromel/2012/ 09/17/unishared-revolution-in-online-education-beyond-coursera-edx-and-udacity/print/>.
 
@@ -11785,7 +11773,7 @@ Luigi Zingales. “In Search of New Foundations” <em>The Journal of Finance</em>, 
 
 [756] “Boss’s Tip of the Week #28: The Internet: How to Keep an Asset from Becoming a Liability (or a Lawsuit),” <em>eBossWatch</em>, August 11, 2010 <http://blog.ebosswatch.com/2010/08/boss-tipof-the-week-28-the-internet-how-to-keep-an-asset-from-becoming-a-liability-or-a-lawsuit/>.
 
-[757] Jaclyn Jaeger, “Wikileaks: The Other Whistleblower Problem,” <em>AllBusiness.com</em>, April 1,
+[757] Jaclyn Jaeger, “Wikileaks: The Other Whistleblower Problem,” <em>AllBusiness.com</em>, April 1, <http://www.allbusiness.com/government/government-bodies-offices-us-federal-2011 government/16400952-1.html>.
 
 [758] “270-day libel case goes on and on... ,” <em>Daily Telegraph</em>, June 28, 1996 <http://www .mcspotlight.org/media/thisweek/jul3.html>.
 
